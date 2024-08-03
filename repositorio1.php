@@ -1,5 +1,5 @@
 <?php
-$titulo = "HOLA MUNDOOOOOOOOOOOOO ♡ ";
+$titulo = "HOLA MUNDOOOOOOOOO ♡ ";
 ?>
 
 <!DOCTYPE html>
