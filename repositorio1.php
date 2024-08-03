@@ -1,5 +1,5 @@
 <?php
-$titulo = "HOLA MUNDOOOOOOOOO ♡ ";
+$titulo = "HOLA MUNDOOOOOO ♡ ";
 ?>
 
 <!DOCTYPE html>
@@ -7,6 +7,7 @@ $titulo = "HOLA MUNDOOOOOOOOO ♡ ";
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="Style.css">
     <title>Document</title>
     </head>
  
